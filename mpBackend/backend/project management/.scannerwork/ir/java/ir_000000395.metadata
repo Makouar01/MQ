@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.repoTest.IssueRepositoryTest#setUp()V
+false
+b496c8ec2243b064a1bbb829840bc836
+com.ayoub.project_management.model.Issue#instance-init#
+com.ayoub.project_management.model.Project#instance-init#
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusDays(J)Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+java.util.ArrayList#<factory>()Ljava/util/ArrayList;
+java.util.ArrayList#instance-init#
+==
+!unknownMethod! !unknownMethod!

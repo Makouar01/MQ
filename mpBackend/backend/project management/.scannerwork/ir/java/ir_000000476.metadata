@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testDeleteProject()V
+false
+5b836fceaa93bf25fed65db3eb67400a
+==
+!unknownMethod! !unknownMethod!
+deleteProject com.ayoub.project_management.service.project.ProjectServiceImpl#deleteProject(Ljava/lang/Long;Ljava/lang/Long;)V

@@ -1,0 +1,10 @@
+com.ayoub.project_management.controller.CommentController#deleteComment(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+3a448991f5d33f40f95a7946ec5c3c23
+com.ayoub.project_management.responce.MessageResponse#<init>(Ljava/lang/String;)V
+com.ayoub.project_management.responce.MessageResponse#instance-init#
+==
+!unknownMethod! !unknownMethod!
+deleteComment com.ayoub.project_management.service.comment.CommentService#deleteComment(Ljava/lang/Long;Ljava/lang/Long;)V
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+getId com.ayoub.project_management.model.User#getId()Ljava/lang/Long;

@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.repoTest.CommentRepositoryTest#testFindCommentByIssueId_SingleComment()V
+false
+3bda94052740cc2ca52338c387a3dc6c
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findCommentByIssueId com.ayoub.project_management.Repository.CommentRepository#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

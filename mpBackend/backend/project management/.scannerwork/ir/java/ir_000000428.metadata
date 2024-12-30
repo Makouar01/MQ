@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#getUsersSubscription(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;
+false
+68d43288f6c3089ff59add1b1401b150
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+findByUserId com.ayoub.project_management.Repository.SubscriptionRepository#findByUserId(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;
+isValid com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#isValid(Lcom/ayoub/project_management/model/Subscription;)Z

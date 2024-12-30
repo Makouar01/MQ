@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.ProjectServiceImpl#updateProject(Lcom/ayoub/project_management/model/Project;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;
+false
+4ba0efe419b5a03466fd650d5567524f
+==
+!unknownMethod! !unknownMethod!
+getProjectById com.ayoub.project_management.service.project.ProjectServiceImpl#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

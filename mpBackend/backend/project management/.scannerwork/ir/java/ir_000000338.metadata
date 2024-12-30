@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.services.UserServiceImplTest#testFindUserByEmail()V
+false
+18fbf26522f70940fb22e1648b7c6f26
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+findByEmail com.ayoub.project_management.Repository.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;
+findUserByEmail com.ayoub.project_management.service.user.UserServiceImpl#findUserByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

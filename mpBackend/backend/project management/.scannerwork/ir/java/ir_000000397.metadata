@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.repoTest.IssueRepositoryTest#testFindByProjectId_NoIssues()V
+false
+9d7914c87541dbf003191a070ba522de
+java.util.Collections#emptyList()Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findByProjectId com.ayoub.project_management.Repository.IssueRepository#findByProjectId(Ljava/lang/Long;)Ljava/util/List;
+isEmpty java.util.List#isEmpty()Z

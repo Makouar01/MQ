@@ -1,0 +1,7 @@
+com.ayoub.project_management.controller.IssueController#assigneIssue(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+57b511e64167ae8a26448c1993457a48
+==
+!unknownMethod! !unknownMethod!
+addUserToIssue com.ayoub.project_management.service.issue.IssueService#addUserToIssue(Ljava/lang/Long;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

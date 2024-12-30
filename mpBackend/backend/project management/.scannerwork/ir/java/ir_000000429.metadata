@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#upgradSubscription(Ljava/lang/Long;Lcom/ayoub/project_management/model/PlanType;)Lcom/ayoub/project_management/model/Subscription;
+false
+ec9a41b418d2c082cad1789448c6447d
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+getUsersSubscription com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#getUsersSubscription(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;

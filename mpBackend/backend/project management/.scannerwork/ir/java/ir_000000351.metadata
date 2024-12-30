@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.message.MessageServiceImpl#getMessageByProjectId(Ljava/lang/Long;)Ljava/util/List;
+false
+0922f71dcf856a86ba018a953249b01c
+==
+!unknownMethod! !unknownMethod!
+findByChatIdOrderByCreatedAtAsc com.ayoub.project_management.Repository.MessageRepository#findByChatIdOrderByCreatedAtAsc(Ljava/lang/Long;)Ljava/util/List;
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

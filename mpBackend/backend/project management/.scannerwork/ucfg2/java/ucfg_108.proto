@@ -1,0 +1,59 @@
+
+Åcom.ayoub.project_management.service.user.UserServiceImpl#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;ú
+ëC:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/user/UserServiceImpl.java& &("startingBlock*˛
+startingBlock& &(%á
+Ñ
+% %(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*2
+
+__unknown_file (
+
+idjava.lang.LongT
+R
+&" &($
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%3*
+1*â
+1'& '(4¿
+Ω
+'& '(4<
+%06com.ayoub.project_management.Repository.UserRepository"__id*m
+
+__unknown_file (Q*O;
+9com.ayoub.project_management.service.user.UserServiceImpl"
+userRepositoryZ
+X
+' '(B"
+optionalUserjava.util.Optional"__id*"
+
+__unknown_file (
+""∞
+≠
+(( ((q!
+%1java.util.function.Supplier"__declareFunction*k
+
+__unknown_file (OM
+K__sonar_lambda_19$com.ayoub.project_management.service.user.UserServiceImplìê
+( ((r
+%2"Ojava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;*@
+
+__unknown_file ($
+"
+optionalUserjava.util.Optional*?
+
+__unknown_file (#
+!
+%1java.util.function.Supplier2*orElseThrow(Ljava/util/function/Supplier;)"
+( ((s
+
+%2: 
+& &($
+idjava.lang.LongB=;
+9com.ayoub.project_management.service.user.UserServiceImplH

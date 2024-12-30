@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.IssueController#getUserId(Ljava/lang/String;)Ljava/lang/Long;
+false
+ad1a89f04bb4831b6d0b482875acc74f
+==
+!unknownMethod! !unknownMethod!
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

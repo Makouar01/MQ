@@ -1,0 +1,47 @@
+
+qcom.ayoub.project_management.service.issue.IssueServiceImpl#getIssueByProjectId(Ljava/lang/Long;)Ljava/util/List;ž
+“C:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/issue/IssueServiceImpl.java% %(*"startingBlock*Œ
+startingBlock%* %(:Ž
+‹
+$ $(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+	projectIdjava.lang.Long[
+Y
+%0 %(9
+	projectIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ä
+1& &(Ä
+Á
+& &(=
+%07com.ayoub.project_management.Repository.IssueRepository"__id*p
+
+__unknown_file (T*R=
+;com.ayoub.project_management.service.issue.IssueServiceImpl"
+issueRepositoryÉÆ
+& &(9
+%1java.util.List"icom.ayoub.project_management.Repository.IssueRepository#findByProjectId(Ljava/lang/Long;)Ljava/util/List;*[
+
+__unknown_file (?
+=
+%07com.ayoub.project_management.Repository.IssueRepository*9
+
+__unknown_file (
+
+	projectIdjava.lang.Long2!findByProjectId(Ljava/lang/Long;)""
+& &(:
+
+%1java.util.List:'
+%+ %(9
+	projectIdjava.lang.LongB?=
+;com.ayoub.project_management.service.issue.IssueServiceImplH

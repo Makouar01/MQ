@@ -1,0 +1,7 @@
+com.ayoub.project_management.controller.SubscriptionController#upgradeSubscription(Ljava/lang/String;Lcom/ayoub/project_management/model/PlanType;)LResponseEntity;
+false
+753f60fefca39fcae26eac1eb89e78af
+==
+!unknownMethod! !unknownMethod!
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+upgradSubscription com.ayoub.project_management.service.subscription.SubscriptionService#upgradSubscription(Ljava/lang/Long;Lcom/ayoub/project_management/model/PlanType;)Lcom/ayoub/project_management/model/Subscription;

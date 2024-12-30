@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#deleteIssue(Ljava/lang/Long;Ljava/lang/Long;)V
+false
+4d8b20226f376ea46c5500abc4eb44a0
+==
+!unknownMethod! !unknownMethod!
+getIssueById com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;

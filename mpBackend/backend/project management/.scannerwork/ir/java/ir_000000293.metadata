@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.project.ProjectServiceImpl#searchProject(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+false
+2c7c8ada0d4782265fa18c4cf67da89a
+java.lang.String#toLowerCase()Ljava/lang/String;
+==
+findByNameContainingIgnoreCaseAndTeamContains com.ayoub.project_management.Repository.ProjectRepository#findByNameContainingIgnoreCaseAndTeamContains(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+println java.io.PrintStream#println(Ljava/lang/String;)V

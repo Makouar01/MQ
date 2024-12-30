@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.repoTest.IssueRepositoryTest#testFindByProjectId()V
+false
+5bf60464d43af4183c3e3926eb5ab04c
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+contains java.util.List#contains(Ljava/lang/Object;)Z
+findByProjectId com.ayoub.project_management.Repository.IssueRepository#findByProjectId(Ljava/lang/Long;)Ljava/util/List;
+size java.util.List#size()I

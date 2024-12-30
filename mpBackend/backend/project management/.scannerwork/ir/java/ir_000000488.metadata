@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.repoTest.SubscriptionRepositoryTest#testFindByUserId_NotFound()V
+false
+d091d28a04aa2de8bcd166345fb8b621
+==
+!unknownMethod! !unknownMethod!
+findByUserId com.ayoub.project_management.Repository.SubscriptionRepository#findByUserId(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;

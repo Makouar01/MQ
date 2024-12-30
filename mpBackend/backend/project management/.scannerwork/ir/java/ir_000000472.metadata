@@ -1,0 +1,31 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testCreateProject()V
+false
+629a082ea7fa055a8655d50a33be8120
+com.ayoub.project_management.model.Chat#<init>()V
+com.ayoub.project_management.model.Chat#instance-init#
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusDays(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+contains java.util.List#contains(Ljava/lang/Object;)Z
+createChat com.ayoub.project_management.service.chat.ChatService#createChat(Lcom/ayoub/project_management/model/Chat;)Lcom/ayoub/project_management/model/Chat;
+createProject com.ayoub.project_management.service.project.ProjectServiceImpl#createProject(Lcom/ayoub/project_management/model/Project;Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Project;
+getChat com.ayoub.project_management.model.Project#getChat()Lcom/ayoub/project_management/model/Chat;
+getDescription com.ayoub.project_management.model.Project#getDescription()Ljava/lang/String;
+getName com.ayoub.project_management.model.Project#getName()Ljava/lang/String;
+getProject com.ayoub.project_management.model.Chat#getProject()Lcom/ayoub/project_management/model/Project;
+getTeam com.ayoub.project_management.model.Project#getTeam()Ljava/util/List;
+setBudget com.ayoub.project_management.model.Project#setBudget(Ljava/lang/Double;)V
+setDescription com.ayoub.project_management.model.Project#setDescription(Ljava/lang/String;)V
+setEndDate com.ayoub.project_management.model.Project#setEndDate(Ljava/time/LocalDate;)V
+setFullName com.ayoub.project_management.model.User#setFullName(Ljava/lang/String;)V
+setId com.ayoub.project_management.model.Chat#setId(Ljava/lang/Long;)V
+setId com.ayoub.project_management.model.Project#setId(Ljava/lang/Long;)V
+setId com.ayoub.project_management.model.User#setId(Ljava/lang/Long;)V
+setName com.ayoub.project_management.model.Chat#setName(Ljava/lang/String;)V
+setName com.ayoub.project_management.model.Project#setName(Ljava/lang/String;)V
+setStartDate com.ayoub.project_management.model.Project#setStartDate(Ljava/time/LocalDate;)V

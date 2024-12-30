@@ -1,0 +1,53 @@
+
+Ücom.ayoub.project_management.service.project.ProjectServiceImpl#getChatById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Chat;§
+óC:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/project/ProjectServiceImpl.javaà à("startingBlock*å
+startingBlock
+à à((ç
+ä
+
+á á(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+chatIdjava.lang.LongZ
+X
+
+à! à('
+chatIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%1*
+1*“
+1
+â â((ãà
+
+â â(00
+%0*com.ayoub.project_management.model.Project"åcom.ayoub.project_management.service.project.ProjectServiceImpl#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;*_
+
+__unknown_file (CA
+?com.ayoub.project_management.service.project.ProjectServiceImpl*6
+
+__unknown_file (
+
+chatIdjava.lang.Long2 getProjectById(Ljava/lang/Long;)ú
+ô
+
+â â(15
+project*com.ayoub.project_management.model.Project"__id*N
+
+__unknown_file (2
+0
+%0*com.ayoub.project_management.model.Project"
+
+ã ã(!
+"":&
+
+à à('
+chatIdjava.lang.LongBCA
+?com.ayoub.project_management.service.project.ProjectServiceImplH

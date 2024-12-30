@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#addUserToIssue(Ljava/lang/Long;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;
+false
+60144ad3e1422e0347c79915577664b4
+==
+!unknownMethod! !unknownMethod!
+findUserById com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;
+getIssueById com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;

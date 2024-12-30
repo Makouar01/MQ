@@ -1,0 +1,12 @@
+com.ayoub.project_management.service.project.services.IssueServiceImplTest#testAddUserToIssue()V
+false
+b83a62e4eff03951f0eed51bd5a717f7
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+addUserToIssue com.ayoub.project_management.service.issue.IssueServiceImpl#addUserToIssue(Ljava/lang/Long;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;
+findUserById com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;

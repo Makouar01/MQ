@@ -1,0 +1,11 @@
+com.ayoub.project_management.service.project.services.CommentServiceImplTest#testDeleteComment_Success()V
+false
+2acd0ae954275c860d78a2ccac9b8895
+com.ayoub.project_management.model.Comment#<init>()V
+com.ayoub.project_management.model.Comment#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+deleteComment com.ayoub.project_management.service.comment.CommentServiceImpl#deleteComment(Ljava/lang/Long;Ljava/lang/Long;)V

@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.AuthController#authenticate(Ljava/lang/String;Ljava/lang/String;)LAuthentication;
+false
+b9dae0f5cc6f226171a6a21f3761e0c5
+==
+!unknownMethod! !unknownMethod!
+loadUserByUsername com.ayoub.project_management.service.CustomUserServiceImpl#loadUserByUsername(Ljava/lang/String;)LUserDetails;

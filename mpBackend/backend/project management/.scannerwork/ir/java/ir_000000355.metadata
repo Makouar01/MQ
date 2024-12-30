@@ -1,0 +1,5 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueByProjectId(Ljava/lang/Long;)Ljava/util/List;
+false
+bf23d40bd8c081450be40bf9db8aa354
+==
+findByProjectId com.ayoub.project_management.Repository.IssueRepository#findByProjectId(Ljava/lang/Long;)Ljava/util/List;

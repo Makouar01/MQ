@@ -1,0 +1,9 @@
+com.ayoub.project_management.controller.IssueController#deleteIssue(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+ddb86fcc3f06c0757c9ed76ba4557f83
+com.ayoub.project_management.responce.AuthResponce#<init>()V
+com.ayoub.project_management.responce.AuthResponce#instance-init#
+==
+!unknownMethod! !unknownMethod!
+deleteIssue com.ayoub.project_management.service.issue.IssueService#deleteIssue(Ljava/lang/Long;Ljava/lang/Long;)V
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

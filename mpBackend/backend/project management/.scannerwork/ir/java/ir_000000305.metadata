@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.services.IssueServiceImplTest#testCreateIssue()V
+false
+726992eb3731c67ef8882a44836fbd0f
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+com.ayoub.project_management.request.IssueRequest#<init>()V
+com.ayoub.project_management.request.IssueRequest#instance-init#
+==
+!unknownMethod! !unknownMethod!
+createIssue com.ayoub.project_management.service.issue.IssueServiceImpl#createIssue(Lcom/ayoub/project_management/request/IssueRequest;Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Issue;
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

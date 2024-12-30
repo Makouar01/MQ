@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#isValid(Lcom/ayoub/project_management/model/Subscription;)Z
+false
+0240243f67cf25fd14d371b9b64b9ab9
+java.time.LocalDate#isAfter(Ljava/time/chrono/ChronoLocalDate;)Z
+java.time.LocalDate#isEqual(Ljava/time/chrono/ChronoLocalDate;)Z
+java.time.LocalDate#now()Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!

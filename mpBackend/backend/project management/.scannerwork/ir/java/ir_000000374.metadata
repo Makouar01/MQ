@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.services.CommentServiceImplTest#testCreateComment_Success()V
+false
+cc6fa1cc320369587a8081d22d452261
+com.ayoub.project_management.model.Comment#<init>()V
+com.ayoub.project_management.model.Comment#instance-init#
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+createComment com.ayoub.project_management.service.comment.CommentServiceImpl#createComment(Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Comment;

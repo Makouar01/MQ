@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.ProjectServiceImpl#createProject(Lcom/ayoub/project_management/model/Project;Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Project;
+false
+51321ff5e59d57612228ac6e83c3f035
+com.ayoub.project_management.model.Chat#<init>()V
+com.ayoub.project_management.model.Chat#instance-init#
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+==
+!unknownMethod! !unknownMethod!
+createChat com.ayoub.project_management.service.chat.ChatService#createChat(Lcom/ayoub/project_management/model/Chat;)Lcom/ayoub/project_management/model/Chat;

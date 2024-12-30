@@ -1,0 +1,5 @@
+com.ayoub.project_management.service.comment.CommentServiceImpl#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;
+false
+0af89cb084187502f93482805057bfdd
+==
+findCommentByIssueId com.ayoub.project_management.Repository.CommentRepository#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;

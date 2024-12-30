@@ -1,0 +1,12 @@
+com.ayoub.project_management.controller.UserController#getUserProfile(Ljava/lang/String;)LResponseEntity;
+false
+70adcd241e46e9ce5939728c792966b0
+com.ayoub.project_management.dto.UserProfileDTO#<init>()V
+com.ayoub.project_management.dto.UserProfileDTO#instance-init#
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+==
+!unknownMethod! !unknownMethod!
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+setAssignedIssues com.ayoub.project_management.dto.UserProfileDTO#setAssignedIssues(Ljava/util/List;)V
+setEmail com.ayoub.project_management.dto.UserProfileDTO#setEmail(Ljava/lang/String;)V
+setFullName com.ayoub.project_management.dto.UserProfileDTO#setFullName(Ljava/lang/String;)V

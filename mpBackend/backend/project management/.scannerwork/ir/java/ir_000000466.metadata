@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.repoTest.ProjectRepositoryTest#testFindByTeamContainingOrOwner()V
+false
+eba450c13ef853361918da92f67893a5
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+contains java.util.List#contains(Ljava/lang/Object;)Z
+equals com.ayoub.project_management.model.User#equals(Ljava/lang/Object;)Z
+findByTeamContainingOrOwner com.ayoub.project_management.Repository.ProjectRepository#findByTeamContainingOrOwner(Lcom/ayoub/project_management/model/User;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+get java.util.List#get(I)Ljava/lang/Object;
+getOwner com.ayoub.project_management.model.Project#getOwner()Lcom/ayoub/project_management/model/User;
+getTeam com.ayoub.project_management.model.Project#getTeam()Ljava/util/List;
+size java.util.List#size()I

@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.services.UserServiceImplTest#testUpdateInformation_UserNotFound()V
+false
+f6db92a173e65b43d9b97d822062cd2d
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Optional#empty()Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!

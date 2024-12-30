@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;
+false
+ed909ad013547ca791a932e6fa322251
+java.lang.Exception#<init>(Ljava/lang/String;)V
+java.lang.Exception#instance-init#
+java.util.Optional#get()Ljava/lang/Object;
+java.util.Optional#isPresent()Z
+==
+!unknownMethod! !unknownMethod!

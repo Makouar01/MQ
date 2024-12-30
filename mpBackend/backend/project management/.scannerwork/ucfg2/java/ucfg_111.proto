@@ -1,0 +1,36 @@
+
+˜com.ayoub.project_management.service.chat.ChatServiceImpl#createChat(Lcom/ayoub/project_management/model/Chat;)Lcom/ayoub/project_management/model/Chat;œ
+‘C:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/chat/ChatServiceImpl.java ("startingBlock*´
+startingBlock (%¢
+Ÿ
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*M
+
+__unknown_file (1
+/
+chat'com.ayoub.project_management.model.Chato
+m
+  ($/
+chat'com.ayoub.project_management.model.Chat"__annotation*"
+
+__unknown_file (
+
+%1*
+1*ä
+1 (À
+½
+ (<
+%06com.ayoub.project_management.Repository.ChatRepository"__id*m
+
+__unknown_file (Q*O;
+9com.ayoub.project_management.service.chat.ChatServiceImpl"
+chatRepository"
+ ()
+"":;
+ ($/
+chat'com.ayoub.project_management.model.ChatB=;
+9com.ayoub.project_management.service.chat.ChatServiceImplH

@@ -1,0 +1,9 @@
+com.ayoub.project_management.controller.CommentController#createComment(Lcom/ayoub/project_management/request/createCommentRequest;Ljava/lang/String;)LResponseEntity;
+false
+b4811cd18aea42d9cdc0e20e5321b0e9
+==
+createComment com.ayoub.project_management.service.comment.CommentService#createComment(Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Comment;
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+getContent com.ayoub.project_management.request.createCommentRequest#getContent()Ljava/lang/String;
+getId com.ayoub.project_management.model.User#getId()Ljava/lang/Long;
+getIssueId com.ayoub.project_management.request.createCommentRequest#getIssueId()Ljava/lang/Long;

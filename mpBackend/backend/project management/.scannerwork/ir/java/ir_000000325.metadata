@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.services.SubscriptionServiceImplTest#testGetUsersSubscription_Success()V
+false
+5d6ca2c5810a6ca2f2ca343f27e6b7d7
+com.ayoub.project_management.model.Subscription#<init>()V
+com.ayoub.project_management.model.Subscription#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#minusDays(J)Ljava/time/LocalDate;
+java.time.LocalDate#now()Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+findByUserId com.ayoub.project_management.Repository.SubscriptionRepository#findByUserId(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;
+getUsersSubscription com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#getUsersSubscription(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;

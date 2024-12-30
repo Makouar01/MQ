@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.services.InvitationServiceImplTest#testDeleteToken_Success()V
+false
+ac2255d4eff81684473f981f8d1dfb9f
+com.ayoub.project_management.model.Invitation#<init>()V
+com.ayoub.project_management.model.Invitation#instance-init#
+==
+!unknownMethod! !unknownMethod!
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;

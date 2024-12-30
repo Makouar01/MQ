@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.services.SubscriptionServiceImplTest#testIsValid_PaidPlanExpired()V
+false
+e70f7ee7e61c6ddce55e6f0493c620e7
+com.ayoub.project_management.model.Subscription#<init>()V
+com.ayoub.project_management.model.Subscription#instance-init#
+java.time.LocalDate#minusDays(J)Ljava/time/LocalDate;
+java.time.LocalDate#now()Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+isValid com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#isValid(Lcom/ayoub/project_management/model/Subscription;)Z

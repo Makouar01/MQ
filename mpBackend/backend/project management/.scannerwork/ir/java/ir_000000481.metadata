@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testGetChatById()V
+false
+6e57cd10d4250255925cae53496254c8
+com.ayoub.project_management.model.Chat#<init>()V
+com.ayoub.project_management.model.Chat#instance-init#
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getChatById com.ayoub.project_management.service.project.ProjectServiceImpl#getChatById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Chat;
+setChat com.ayoub.project_management.model.Project#setChat(Lcom/ayoub/project_management/model/Chat;)V
+setId com.ayoub.project_management.model.Project#setId(Ljava/lang/Long;)V

@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.repoTest.SubscriptionRepositoryTest#testFindByUserId()V
+false
+41a222a3a8a5afe4d4fb4372268ce136
+==
+!unknownMethod! !unknownMethod!
+findByUserId com.ayoub.project_management.Repository.SubscriptionRepository#findByUserId(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;
+getId com.ayoub.project_management.model.User#getId()Ljava/lang/Long;
+getPlanType com.ayoub.project_management.model.Subscription#getPlanType()Lcom/ayoub/project_management/model/PlanType;
+getUser com.ayoub.project_management.model.Subscription#getUser()Lcom/ayoub/project_management/model/User;
+isValid com.ayoub.project_management.model.Subscription#isValid()Z

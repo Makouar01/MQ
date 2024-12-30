@@ -1,0 +1,8 @@
+com.ayoub.project_management.controller.ProjectController#deleteProject(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+70ec578855e3514ca17adf9ebcbfe1f9
+com.ayoub.project_management.responce.MessageResponse#instance-init#
+==
+!unknownMethod! !unknownMethod!
+deleteProject com.ayoub.project_management.service.project.ProjectService#deleteProject(Ljava/lang/Long;Ljava/lang/Long;)V
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

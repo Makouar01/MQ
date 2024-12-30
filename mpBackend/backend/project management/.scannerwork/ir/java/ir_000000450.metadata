@@ -1,0 +1,6 @@
+com.ayoub.project_management.config.JwtProvider#getEmailFromToken(Ljava/lang/String;)Ljava/lang/String;
+false
+073e8ecb8737d39ad4cce58a42a3b8ce
+java.lang.String#substring(I)Ljava/lang/String;
+==
+!unknownMethod! !unknownMethod!

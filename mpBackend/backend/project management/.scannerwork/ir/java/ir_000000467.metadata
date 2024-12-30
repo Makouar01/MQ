@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.repoTest.ProjectRepositoryTest#testFindByNameContainingIgnoreCaseAndTeamContains_NoResult()V
+false
+59b3ba7fa3b0a3de909f78d10e64ee04
+java.util.Collections#emptyList()Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findByNameContainingIgnoreCaseAndTeamContains com.ayoub.project_management.Repository.ProjectRepository#findByNameContainingIgnoreCaseAndTeamContains(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+isEmpty java.util.List#isEmpty()Z

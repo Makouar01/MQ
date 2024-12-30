@@ -1,0 +1,14 @@
+com.ayoub.project_management.service.project.repoTest.ProjectRepositoryTest#testFindByNameContainingIgnoreCaseAndTeamContains()V
+false
+d37155c49168f5ccdeb0974c616232e6
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.String#toLowerCase()Ljava/lang/String;
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+contains java.util.List#contains(Ljava/lang/Object;)Z
+findByNameContainingIgnoreCaseAndTeamContains com.ayoub.project_management.Repository.ProjectRepository#findByNameContainingIgnoreCaseAndTeamContains(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+get java.util.List#get(I)Ljava/lang/Object;
+getName com.ayoub.project_management.model.Project#getName()Ljava/lang/String;
+getTeam com.ayoub.project_management.model.Project#getTeam()Ljava/util/List;
+size java.util.List#size()I

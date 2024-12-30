@@ -1,0 +1,15 @@
+com.ayoub.project_management.controller.MessageController#sendMessage(Lcom/ayoub/project_management/request/CreatRequestMessage;)LResponseEntity;
+false
+6b78c39191d4412c68c181c0395767e8
+java.lang.Exception#<init>(Ljava/lang/String;)V
+java.lang.Exception#instance-init#
+==
+!unknownMethod! !unknownMethod!
+findUserById com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;
+getChat com.ayoub.project_management.model.Project#getChat()Lcom/ayoub/project_management/model/Chat;
+getChatById com.ayoub.project_management.service.project.ProjectService#getChatById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Chat;
+getContent com.ayoub.project_management.request.CreatRequestMessage#getContent()Ljava/lang/String;
+getProject com.ayoub.project_management.model.Chat#getProject()Lcom/ayoub/project_management/model/Project;
+getProjectId com.ayoub.project_management.request.CreatRequestMessage#getProjectId()Ljava/lang/Long;
+getSenderId com.ayoub.project_management.request.CreatRequestMessage#getSenderId()Ljava/lang/Long;
+sendMessage com.ayoub.project_management.service.message.MessageService#sendMessage(Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Message;

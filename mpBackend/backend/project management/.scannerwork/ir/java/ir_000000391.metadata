@@ -1,0 +1,7 @@
+com.ayoub.project_management.controller.SubscriptionController#getUserSubscription(Ljava/lang/String;)LResponseEntity;
+false
+51b42affc01eeae6414cf6ad88ba2c62
+==
+!unknownMethod! !unknownMethod!
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+getUsersSubscription com.ayoub.project_management.service.subscription.SubscriptionService#getUsersSubscription(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;

@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.services.MessageServiceImplTest#testSendMessage_Success()V
+false
+a6836365713894aedc4929f41d93a574
+com.ayoub.project_management.model.Message#instance-init#
+java.time.LocalDateTime#now()Ljava/time/LocalDateTime;
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;
+sendMessage com.ayoub.project_management.service.message.MessageServiceImpl#sendMessage(Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Message;

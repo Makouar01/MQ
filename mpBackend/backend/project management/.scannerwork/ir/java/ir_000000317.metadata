@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.ProjectController#getChatbyProjectId(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+dcd9337a8daf14635d3677cd3c1ec174
+==
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+getChatById com.ayoub.project_management.service.project.ProjectService#getChatById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Chat;

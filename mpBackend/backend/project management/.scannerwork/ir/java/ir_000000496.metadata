@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.project.services.InvitationServiceImplTest#testAcceptInvitation_InvalidToken()V
+false
+5bc39bb1165e6d24a5d8703329c4c75f
+==
+!unknownMethod! !unknownMethod!
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

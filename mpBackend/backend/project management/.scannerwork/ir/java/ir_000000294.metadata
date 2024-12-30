@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.ProjectServiceImpl#getChatById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Chat;
+false
+85455eded6f27d61e1ffcd0eaed0b161
+==
+!unknownMethod! !unknownMethod!
+getProjectById com.ayoub.project_management.service.project.ProjectServiceImpl#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

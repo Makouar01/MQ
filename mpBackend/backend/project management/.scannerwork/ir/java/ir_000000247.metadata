@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.IssueController#updateIssueStatus(Ljava/lang/Long;Ljava/lang/String;)LResponseEntity;
+false
+15ddd5740e975320fe342009e67fc27f
+==
+!unknownMethod! !unknownMethod!
+updateStatus com.ayoub.project_management.service.issue.IssueService#updateStatus(Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Issue;

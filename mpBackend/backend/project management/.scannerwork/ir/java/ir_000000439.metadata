@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.repoTest.MessageRepositoryTest#testFindByChatIdOrderByCreatedAtAsc_SingleMessage()V
+false
+9f80361765caf882840edaf42054e0ca
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findByChatIdOrderByCreatedAtAsc com.ayoub.project_management.Repository.MessageRepository#findByChatIdOrderByCreatedAtAsc(Ljava/lang/Long;)Ljava/util/List;
+get java.util.List#get(I)Ljava/lang/Object;
+getCreatedAt com.ayoub.project_management.model.Message#getCreatedAt()Ljava/time/LocalDateTime;
+size java.util.List#size()I

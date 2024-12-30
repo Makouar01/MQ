@@ -1,0 +1,16 @@
+com.ayoub.project_management.service.project.repoTest.IssueRepositoryTest#testFindByProjectId_IssueWithDifferentProject()V
+false
+6ce6715ed3a8787daf3c2c37b215f9a5
+com.ayoub.project_management.model.Issue#instance-init#
+com.ayoub.project_management.model.Project#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusDays(J)Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+java.util.ArrayList#<factory>()Ljava/util/ArrayList;
+java.util.ArrayList#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+contains java.util.List#contains(Ljava/lang/Object;)Z
+findByProjectId com.ayoub.project_management.Repository.IssueRepository#findByProjectId(Ljava/lang/Long;)Ljava/util/List;
+size java.util.List#size()I

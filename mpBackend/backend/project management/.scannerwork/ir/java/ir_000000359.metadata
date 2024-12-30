@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#updateStatus(Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Issue;
+false
+4a3b8c9c1a87f406a8aece162f09ddfa
+==
+!unknownMethod! !unknownMethod!
+getIssueById com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;

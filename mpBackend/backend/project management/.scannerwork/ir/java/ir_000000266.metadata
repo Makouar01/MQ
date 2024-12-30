@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.repoTest.InvitationRepositoryTest#testFindByEmail()V
+false
+1acbba9e89743d9b0a562d3e5710d39b
+==
+!unknownMethod! !unknownMethod!
+findByEmail com.ayoub.project_management.Repository.InvitationRepository#findByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+getEmail com.ayoub.project_management.model.Invitation#getEmail()Ljava/lang/String;
+getToken com.ayoub.project_management.model.Invitation#getToken()Ljava/lang/String;

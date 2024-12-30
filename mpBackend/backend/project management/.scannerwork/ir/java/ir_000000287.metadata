@@ -1,0 +1,11 @@
+com.ayoub.project_management.service.project.ProjectServiceImpl#getAllProjectsByTeam(Lcom/ayoub/project_management/model/User;Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;
+false
+3c9b60f9937cb06bc40f8d7a8b11b5e0
+==
+!unknownMethod! !unknownMethod!
+count java.util.stream.Stream#count()J
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findByTeamContainingOrOwner com.ayoub.project_management.Repository.ProjectRepository#findByTeamContainingOrOwner(Lcom/ayoub/project_management/model/User;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+isEmpty java.util.List#isEmpty()Z
+size java.util.List#size()I
+stream java.util.Collection#stream()Ljava/util/stream/Stream;

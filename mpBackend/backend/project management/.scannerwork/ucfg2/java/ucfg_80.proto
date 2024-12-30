@@ -1,0 +1,96 @@
+
+–com.ayoub.project_management.service.issue.IssueServiceImpl#addUserToIssue(Ljava/lang/Long;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;ž
+“C:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/issue/IssueServiceImpl.javaC C("startingBlock*ð
+startingBlockC C(:Œ
+‰
+B B(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+issueIdjava.lang.LongY
+W
+C% C(,
+issueIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%4‹
+ˆ
+B B(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+userIdjava.lang.LongX
+V
+C3 C(9
+userIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%5*
+1*Â
+1D D(¾
+»
+D D(;
+%05com.ayoub.project_management.service.user.UserService"__id*l
+
+__unknown_file (P*N=
+;com.ayoub.project_management.service.issue.IssueServiceImpl"
+userServiceîë
+D D(4-
+%1'com.ayoub.project_management.model.User"}com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;*Y
+
+__unknown_file (=
+;
+%05com.ayoub.project_management.service.user.UserService*6
+
+__unknown_file (
+
+userIdjava.lang.Long2findUserById(Ljava/lang/Long;)‘
+Ž
+D D(5/
+user'com.ayoub.project_management.model.User"__id*K
+
+__unknown_file (/
+-
+%1'com.ayoub.project_management.model.Userú÷
+E E(+.
+%2(com.ayoub.project_management.model.Issue"„com.ayoub.project_management.service.issue.IssueServiceImpl#getIssueById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Issue;*[
+
+__unknown_file (?=
+;com.ayoub.project_management.service.issue.IssueServiceImpl*7
+
+__unknown_file (
+
+issueIdjava.lang.Long2getIssueById(Ljava/lang/Long;)”
+‘
+E E(,1
+issue(com.ayoub.project_management.model.Issue"__id*L
+
+__unknown_file (0
+.
+%2(com.ayoub.project_management.model.IssueÄ
+Á
+G G(=
+%37com.ayoub.project_management.Repository.IssueRepository"__id*p
+
+__unknown_file (T*R=
+;com.ayoub.project_management.service.issue.IssueServiceImpl"
+issueRepository"
+G G(+
+"":%
+C  C(-
+issueIdjava.lang.Long:$
+C. C(9
+userIdjava.lang.LongB?=
+;com.ayoub.project_management.service.issue.IssueServiceImplH

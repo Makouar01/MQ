@@ -1,0 +1,7 @@
+organization=xabdelghani
+projectKey=xabdelghani_projetemsi
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58741
+dashboardUrl=https://sonarcloud.io/dashboard?id=xabdelghani_projetemsi
+ceTaskId=AZQN4Kw4CBEeSFnUMyKj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZQN4Kw4CBEeSFnUMyKj

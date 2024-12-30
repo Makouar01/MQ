@@ -1,0 +1,10 @@
+com.ayoub.project_management.controller.IssueController#createIssue(Lcom/ayoub/project_management/request/IssueRequest;Ljava/lang/String;)LResponseEntity;
+false
+b8a1925a1410849ace5f49e8f59f898e
+com.ayoub.project_management.model.IssueDTO#<init>()V
+com.ayoub.project_management.model.IssueDTO#instance-init#
+==
+!unknownMethod! !unknownMethod!
+createIssue com.ayoub.project_management.service.issue.IssueService#createIssue(Lcom/ayoub/project_management/request/IssueRequest;Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Issue;
+findUserById com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;

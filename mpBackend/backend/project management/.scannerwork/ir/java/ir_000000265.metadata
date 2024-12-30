@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.repoTest.InvitationRepositoryTest#testFindByToken_NotFound()V
+false
+d40822ee4c7df3bcf101dbb8c9e3f708
+==
+!unknownMethod! !unknownMethod!
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;

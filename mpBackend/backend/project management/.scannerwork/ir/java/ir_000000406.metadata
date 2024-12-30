@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.user.UserServiceImpl#findUserByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+false
+bffba66e3c586b926ba5ae5647ee4bfb
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findByEmail com.ayoub.project_management.Repository.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;

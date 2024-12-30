@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.services.InvitationServiceImplTest#testGetTokenByUserEmail_Success()V
+false
+9be4bc22810cdfd4de51aa7cff085497
+com.ayoub.project_management.model.Invitation#<init>()V
+com.ayoub.project_management.model.Invitation#instance-init#
+==
+!unknownMethod! !unknownMethod!
+findByEmail com.ayoub.project_management.Repository.InvitationRepository#findByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+getTokenByUserEmail com.ayoub.project_management.service.invitation.InvitationServiceImpl#getTokenByUserEmail(Ljava/lang/String;)Ljava/lang/String;

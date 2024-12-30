@@ -1,0 +1,12 @@
+com.ayoub.project_management.service.project.repoTest.CommentRepositoryTest#setUp()V
+false
+ebaded10bef27af14c0c9c498d6d3af0
+com.ayoub.project_management.model.Comment#instance-init#
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDateTime#now()Ljava/time/LocalDateTime;
+java.time.LocalDateTime#plusMinutes(J)Ljava/time/LocalDateTime;
+==
+!unknownMethod! !unknownMethod!

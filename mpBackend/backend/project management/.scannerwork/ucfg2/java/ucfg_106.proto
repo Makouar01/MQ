@@ -1,0 +1,70 @@
+
+†com.ayoub.project_management.service.user.UserServiceImpl#findUserByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;œ
+‘C:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/user/UserServiceImpl.java   ("startingBlock*ˆ
+startingBlock   (-Œ
+‰
+ (
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+emailjava.lang.StringY
+W
+ '  (,
+emailjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%4*
+1*é
+1!& !(4À
+½
+!& !(4<
+%06com.ayoub.project_management.Repository.UserRepository"__id*m
+
+__unknown_file (Q*O;
+9com.ayoub.project_management.service.user.UserServiceImpl"
+userRepositoryÉÆ
+!& !(G
+%1java.util.Optional"jcom.ayoub.project_management.Repository.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;*Z
+
+__unknown_file (>
+<
+%06com.ayoub.project_management.Repository.UserRepository*7
+
+__unknown_file (
+
+emailjava.lang.String2findByEmail(Ljava/lang/String;)n
+l
+! !(H"
+optionalUserjava.util.Optional"__id*6
+
+__unknown_file (
+
+%1java.util.Optional°
+­
+"( "(q!
+%2java.util.function.Supplier"__declareFunction*k
+
+__unknown_file (OM
+K__sonar_lambda_18$com.ayoub.project_management.service.user.UserServiceImpl“
+" "(r
+%3"Ojava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;*@
+
+__unknown_file ($
+"
+optionalUserjava.util.Optional*?
+
+__unknown_file (#
+!
+%2java.util.function.Supplier2*orElseThrow(Ljava/util/function/Supplier;)"
+" "(s
+
+%3:%
+    (,
+emailjava.lang.StringB=;
+9com.ayoub.project_management.service.user.UserServiceImplH

@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.project.services.InvitationServiceImplTest#testSendInvitation_Failure()V
+false
+fd14aa53bb09d7f9518a50510501bcbc
+==
+!unknownMethod! !unknownMethod!
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

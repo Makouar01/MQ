@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.invitation.InvitationServiceImpl#acceptInvitation(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+false
+f7ffc6dc679be34abcd7304ee686e292
+java.lang.Exception#<init>(Ljava/lang/String;)V
+java.lang.Exception#instance-init#
+==
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;

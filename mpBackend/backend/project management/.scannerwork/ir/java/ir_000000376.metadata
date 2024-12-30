@@ -1,0 +1,10 @@
+com.ayoub.project_management.service.project.services.CommentServiceImplTest#testCreateComment_Failure_UserNotFound()V
+false
+f69c53214c118a74e55df6ae748550d2
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+java.util.Optional#empty()Ljava/util/Optional;
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

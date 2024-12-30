@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.message.MessageServiceImpl#sendMessage(Ljava/lang/Long;Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Message;
+false
+7f763ca80373c331c2dd6170c38fca87
+com.ayoub.project_management.model.Message#<init>()V
+com.ayoub.project_management.model.Message#instance-init#
+java.time.LocalDateTime#now()Ljava/time/LocalDateTime;
+==
+!unknownMethod! !unknownMethod!
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

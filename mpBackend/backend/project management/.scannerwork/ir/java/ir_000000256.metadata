@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.services.MessageServiceImplTest#testGetMessageByProjectId_ProjectNotFound()V
+false
+c9b7612b681d3311e479b8de83196aab
+java.lang.RuntimeException#<init>(Ljava/lang/String;)V
+java.lang.RuntimeException#instance-init#
+==
+!unknownMethod! !unknownMethod!
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

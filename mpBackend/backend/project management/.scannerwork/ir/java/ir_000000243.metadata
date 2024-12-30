@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.IssueController#getIssuesByProjectId(Ljava/lang/Long;)LResponseEntity;
+false
+98d2986484ebb11c11526984044e9d1c
+==
+!unknownMethod! !unknownMethod!
+getIssueByProjectId com.ayoub.project_management.service.issue.IssueService#getIssueByProjectId(Ljava/lang/Long;)Ljava/util/List;

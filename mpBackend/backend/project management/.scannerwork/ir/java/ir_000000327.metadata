@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.services.SubscriptionServiceImplTest#testIsValid_FreePlan()V
+false
+9f89a14bf80fbe42b3387b72721084d1
+com.ayoub.project_management.model.Subscription#<init>()V
+com.ayoub.project_management.model.Subscription#instance-init#
+==
+!unknownMethod! !unknownMethod!
+isValid com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#isValid(Lcom/ayoub/project_management/model/Subscription;)Z

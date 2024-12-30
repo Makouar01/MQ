@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.project.services.MessageServiceImplTest#testSendMessage_UserNotFound()V
+false
+96cb95dbfffb96414d81643ef644a5e9
+java.util.Optional#empty()Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

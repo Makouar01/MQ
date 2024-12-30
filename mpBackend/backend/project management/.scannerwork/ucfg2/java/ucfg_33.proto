@@ -1,0 +1,204 @@
+
+≥com.ayoub.project_management.service.project.ProjectServiceImpl#getAllProjectsByTeam(Lcom/ayoub/project_management/model/User;Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;¢
+óC:/Users/aboum/Desktop/gitClone/mpBackend/backend/project management/src/main/java/com/ayoub/project_management/service/project/ProjectServiceImpl.java7 7(-"startingBlock*µ
+2< <(m
+k
+< <(5
+project*com.ayoub.project_management.model.Project"__id*"
+
+__unknown_file (
+""Æ
+´
+< <(5
+project*com.ayoub.project_management.model.Project"
+__arrayGet*8
+
+__unknown_file (
+
+projectsjava.util.List*"
+
+__unknown_file (
+""*
+6
+1*ê
+startingBlock7- 7(U£
+†
+6 6(
+%12"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*M
+
+__unknown_file (1
+/
+user'com.ayoub.project_management.model.Userp
+n
+73 7(7/
+user'com.ayoub.project_management.model.User"__annotation*#
+
+__unknown_file (
+
+%12ê
+ç
+6 6(
+%13"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+categoryjava.lang.String]
+[
+7@ 7(H
+categoryjava.lang.String"__annotation*#
+
+__unknown_file (
+
+%13ã
+à
+6 6(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+tagjava.lang.StringX
+V
+7Q 7(T
+tagjava.lang.String"__annotation*#
+
+__unknown_file (
+
+%14*
+8*Í
+4A) A(/¶£
+A) A(8
+%4java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*6
+
+__unknown_file (
+
+issuesjava.util.List2stream()∂
+≥
+B  B(U"
+%5java.util.function.Predicate"__declareFunction*p
+
+__unknown_file (TR
+P__sonar_lambda_4$com.ayoub.project_management.service.project.ProjectServiceImpl¨©
+A) B(V
+%7java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%4java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%5java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)Ä~
+A) C( 
+
+%8long" java.util.stream.Stream#count()J*;
+
+__unknown_file (
+
+%7java.util.stream.Stream2count()om
+F@ F(M	
+%9int"java.util.List#size()I*6
+
+__unknown_file (
+
+issuesjava.util.List2size()g
+e
+F$ F(M
+%10float"__calculate*
+F> F(?
+/*
+F$ F(=
+""*
+F@ F(M
+	
+%9inth
+f
+F$ F(S
+%11float"__calculate*
+FN F(O
+**
+F$ F(M
+
+%10float*
+FP F(S2d*
+2*ê
+5?# ?()yw
+?# ?(3
+%3boolean"java.util.List#isEmpty()Z*6
+
+__unknown_file (
+
+issuesjava.util.List2	isEmpty()*
+2
+4*ﬂ
+6=! =((P
+N
+= =(5
+issuesjava.util.List"__id*"
+
+__unknown_file (
+""v
+t
+? ?(
+%2boolean"	__compare*
+? ?(
+!=*&
+? ?(
+
+issuesjava.util.List*
+? ?(
+""*
+2
+5*ï
+89! 9(2Ã
+…
+9! 9(2?
+%09com.ayoub.project_management.Repository.ProjectRepository"__id*v
+
+__unknown_file (Z*XA
+?com.ayoub.project_management.service.project.ProjectServiceImpl"
+projectRepositoryÕ 
+9! 9(Z
+%1java.util.List"πcom.ayoub.project_management.Repository.ProjectRepository#findByTeamContainingOrOwner(Lcom/ayoub/project_management/model/User;Lcom/ayoub/project_management/model/User;)Ljava/util/List;*]
+
+__unknown_file (A
+?
+%09com.ayoub.project_management.Repository.ProjectRepository*M
+
+__unknown_file (1
+/
+user'com.ayoub.project_management.model.User*M
+
+__unknown_file (1
+/
+user'com.ayoub.project_management.model.User2ofindByTeamContainingOrOwner(Lcom/ayoub/project_management/model/User;Lcom/ayoub/project_management/model/User;)b
+`
+9 9([
+projectsjava.util.List"__id*2
+
+__unknown_file (
+
+%1java.util.List*
+2*7
+1M M("(
+M M(
+
+projectsjava.util.List:;
+7. 7(8/
+user'com.ayoub.project_management.model.User:(
+79 7(I
+categoryjava.lang.String:#
+7J 7(T
+tagjava.lang.StringBCA
+?com.ayoub.project_management.service.project.ProjectServiceImplH

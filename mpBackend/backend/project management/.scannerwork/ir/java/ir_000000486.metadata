@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.repoTest.SubscriptionRepositoryTest#setUp()V
+false
+23ea3ad3531acdd8e949b39ca9d18466
+com.ayoub.project_management.model.Subscription#<init>(Ljava/lang/Long;Ljava/time/LocalDate;Ljava/time/LocalDate;Lcom/ayoub/project_management/model/PlanType;ZLcom/ayoub/project_management/model/User;)V
+com.ayoub.project_management.model.Subscription#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#minusDays(J)Ljava/time/LocalDate;
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+setId com.ayoub.project_management.model.User#setId(Ljava/lang/Long;)V

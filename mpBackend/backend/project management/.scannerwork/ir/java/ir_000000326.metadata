@@ -1,0 +1,13 @@
+com.ayoub.project_management.service.project.services.SubscriptionServiceImplTest#testUpgradSubscription_Success_Annually()V
+false
+b160766b4972ba66079c77608b001387
+com.ayoub.project_management.model.Subscription#<init>()V
+com.ayoub.project_management.model.Subscription#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+findByUserId com.ayoub.project_management.Repository.SubscriptionRepository#findByUserId(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Subscription;
+upgradSubscription com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#upgradSubscription(Ljava/lang/Long;Lcom/ayoub/project_management/model/PlanType;)Lcom/ayoub/project_management/model/Subscription;

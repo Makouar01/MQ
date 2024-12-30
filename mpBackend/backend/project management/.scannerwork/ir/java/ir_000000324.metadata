@@ -1,0 +1,12 @@
+com.ayoub.project_management.service.project.services.SubscriptionServiceImplTest#testCreateSubscription_Success()V
+false
+ed9e84fb3b0ae84a3b1cd7b974187689
+com.ayoub.project_management.model.Subscription#<init>()V
+com.ayoub.project_management.model.Subscription#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusMonths(J)Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+createSubscription com.ayoub.project_management.service.subscription.SubscriptionServiceImpl#createSubscription(Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Subscription;

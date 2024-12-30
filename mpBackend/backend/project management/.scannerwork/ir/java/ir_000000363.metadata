@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.invitation.InvitationServiceImpl#getTokenByUserEmail(Ljava/lang/String;)Ljava/lang/String;
+false
+8074d4a0f846c6a8103eb68cd507e50d
+==
+findByEmail com.ayoub.project_management.Repository.InvitationRepository#findByEmail(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+getToken com.ayoub.project_management.model.Invitation#getToken()Ljava/lang/String;

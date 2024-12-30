@@ -1,0 +1,11 @@
+com.ayoub.project_management.service.project.services.CommentServiceImplTest#testFindCommentByIssueId_Success()V
+false
+434a5fc7810cc59abd43bbeaf5efa6be
+com.ayoub.project_management.model.Comment#<init>()V
+com.ayoub.project_management.model.Comment#instance-init#
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findCommentByIssueId com.ayoub.project_management.Repository.CommentRepository#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;
+findCommentByIssueId com.ayoub.project_management.service.comment.CommentServiceImpl#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;
+size java.util.List#size()I

@@ -1,0 +1,6 @@
+com.ayoub.project_management.service.invitation.InvitationServiceImpl#deleteToken(Ljava/lang/String;)V
+false
+f2e2be92aac825f9452becaf4481326e
+==
+!unknownMethod! !unknownMethod!
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;

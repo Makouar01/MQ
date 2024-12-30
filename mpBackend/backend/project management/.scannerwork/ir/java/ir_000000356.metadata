@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.issue.IssueServiceImpl#createIssue(Lcom/ayoub/project_management/request/IssueRequest;Lcom/ayoub/project_management/model/User;)Lcom/ayoub/project_management/model/Issue;
+false
+4cb9b1f0ceefac18179fbe80cb1f869a
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+==
+!unknownMethod! !unknownMethod!
+getProjectById com.ayoub.project_management.service.project.ProjectService#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

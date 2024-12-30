@@ -1,0 +1,8 @@
+com.ayoub.project_management.service.project.services.ChatServiceImplTest#testCreateChat_Success()V
+false
+9a9d4d9c24540e56224d43c384127192
+com.ayoub.project_management.model.Chat#<init>()V
+com.ayoub.project_management.model.Chat#instance-init#
+==
+!unknownMethod! !unknownMethod!
+createChat com.ayoub.project_management.service.chat.ChatServiceImpl#createChat(Lcom/ayoub/project_management/model/Chat;)Lcom/ayoub/project_management/model/Chat;

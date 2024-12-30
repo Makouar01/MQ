@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.services.IssueServiceImplTest#testUpdateStatus()V
+false
+9eba6690023292e7a91d653e303a4d8c
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+updateStatus com.ayoub.project_management.service.issue.IssueServiceImpl#updateStatus(Ljava/lang/Long;Ljava/lang/String;)Lcom/ayoub/project_management/model/Issue;

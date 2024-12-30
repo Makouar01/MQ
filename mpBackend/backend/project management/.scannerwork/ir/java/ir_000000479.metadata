@@ -1,0 +1,25 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testRemoveUserFromProject()V
+false
+69beb90c4607bebfa861cd902c98ada3
+com.ayoub.project_management.model.Chat#<init>()V
+com.ayoub.project_management.model.Chat#instance-init#
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+add java.util.List#add(Ljava/lang/Object;)Z
+contains java.util.List#contains(Ljava/lang/Object;)Z
+findUserById com.ayoub.project_management.service.user.UserService#findUserById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/User;
+getTeam com.ayoub.project_management.model.Project#getTeam()Ljava/util/List;
+getUsers com.ayoub.project_management.model.Chat#getUsers()Ljava/util/List;
+removeUserToProject com.ayoub.project_management.service.project.ProjectServiceImpl#removeUserToProject(Ljava/lang/Long;Ljava/lang/Long;)V
+setChat com.ayoub.project_management.model.Project#setChat(Lcom/ayoub/project_management/model/Chat;)V
+setId com.ayoub.project_management.model.Project#setId(Ljava/lang/Long;)V
+setId com.ayoub.project_management.model.User#setId(Ljava/lang/Long;)V
+setTeam com.ayoub.project_management.model.Project#setTeam(Ljava/util/List;)V
+setUsers com.ayoub.project_management.model.Chat#setUsers(Ljava/util/List;)V

@@ -1,0 +1,9 @@
+com.ayoub.project_management.service.project.services.IssueServiceImplTest#testDeleteIssue()V
+false
+fef57b284ff6b88caed6c20d89bebd38
+com.ayoub.project_management.model.Issue#<init>()V
+com.ayoub.project_management.model.Issue#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+deleteIssue com.ayoub.project_management.service.issue.IssueServiceImpl#deleteIssue(Ljava/lang/Long;Ljava/lang/Long;)V

@@ -1,0 +1,17 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testSearchProject()V
+false
+55cd29a9d31940a58ce3786d75723c2a
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+com.ayoub.project_management.model.User#<init>()V
+com.ayoub.project_management.model.User#instance-init#
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+!unknownMethod! !unknownMethod!
+findByNameContainingIgnoreCaseAndTeamContains com.ayoub.project_management.Repository.ProjectRepository#findByNameContainingIgnoreCaseAndTeamContains(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+get java.util.List#get(I)Ljava/lang/Object;
+getName com.ayoub.project_management.model.Project#getName()Ljava/lang/String;
+searchProject com.ayoub.project_management.service.project.ProjectServiceImpl#searchProject(Ljava/lang/String;Lcom/ayoub/project_management/model/User;)Ljava/util/List;
+setId com.ayoub.project_management.model.User#setId(Ljava/lang/Long;)V
+setName com.ayoub.project_management.model.Project#setName(Ljava/lang/String;)V
+size java.util.List#size()I

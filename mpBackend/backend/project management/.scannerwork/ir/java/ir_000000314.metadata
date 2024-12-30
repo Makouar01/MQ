@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.ProjectController#updateProject(Ljava/lang/Long;Lcom/ayoub/project_management/model/Project;Ljava/lang/String;)LResponseEntity;
+false
+2b460a1c67e5693eb968d536235bb1d6
+==
+findUserProfileByJwt com.ayoub.project_management.service.user.UserService#findUserProfileByJwt(Ljava/lang/String;)Lcom/ayoub/project_management/model/User;
+updateProject com.ayoub.project_management.service.project.ProjectService#updateProject(Lcom/ayoub/project_management/model/Project;Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;

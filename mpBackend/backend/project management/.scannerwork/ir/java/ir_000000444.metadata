@@ -1,0 +1,6 @@
+com.ayoub.project_management.controller.CommentController#getCommentsByIssueId(Ljava/lang/Long;)LResponseEntity;
+false
+78e9c1518dbdc0c0ca8bbb03e8a962d5
+==
+!unknownMethod! !unknownMethod!
+findCommentByIssueId com.ayoub.project_management.service.comment.CommentService#findCommentByIssueId(Ljava/lang/Long;)Ljava/util/List;

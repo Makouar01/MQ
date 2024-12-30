@@ -1,0 +1,11 @@
+com.ayoub.project_management.service.project.services.ProjectServiceImplTest#testGetProjectById()V
+false
+11c5d7f07f93777655c36bbce15dbadc
+com.ayoub.project_management.model.Project#<init>()V
+com.ayoub.project_management.model.Project#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+==
+!unknownMethod! !unknownMethod!
+getId com.ayoub.project_management.model.Project#getId()Ljava/lang/Long;
+getProjectById com.ayoub.project_management.service.project.ProjectServiceImpl#getProjectById(Ljava/lang/Long;)Lcom/ayoub/project_management/model/Project;
+setId com.ayoub.project_management.model.Project#setId(Ljava/lang/Long;)V

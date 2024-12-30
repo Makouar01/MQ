@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.project.repoTest.InvitationRepositoryTest#setUp()V
+false
+f371984d7dbe6e7791c742574c3505fb
+com.ayoub.project_management.model.Invitation#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Long;)V
+com.ayoub.project_management.model.Invitation#instance-init#
+==
+!unknownMethod! !unknownMethod!

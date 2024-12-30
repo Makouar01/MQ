@@ -1,0 +1,7 @@
+com.ayoub.project_management.service.project.services.InvitationServiceImplTest#testIsInvitationAlreadyAccepted_TokenNotFound()V
+false
+1c39f04d483b3d608b782a812134d6ab
+==
+!unknownMethod! !unknownMethod!
+findByToken com.ayoub.project_management.Repository.InvitationRepository#findByToken(Ljava/lang/String;)Lcom/ayoub/project_management/model/Invitation;
+isInvitaionAlreadyAccepted com.ayoub.project_management.service.invitation.InvitationServiceImpl#isInvitaionAlreadyAccepted(Ljava/lang/String;)Z
